@@ -1,0 +1,1131 @@
+{
+  "brand": {
+    "name": "SKUMBRIA BOULEVARD PREMIUM",
+    "tagline": {
+      "uz": "Dengizdan dasturxoningizga",
+      "ru": "От моря к вашему столу",
+      "en": "From the Sea to Your Table"
+    },
+    "currency": "UZS"
+  },
+  "languages": [
+    "uz",
+    "ru",
+    "en"
+  ],
+  "defaultLanguage": "uz",
+  "categories": [
+    {
+      "id": "breakfast",
+      "name": {
+        "uz": "Nonushta",
+        "ru": "Завтраки",
+        "en": "Breakfast"
+      }
+    },
+    {
+      "id": "business-lunch",
+      "name": {
+        "uz": "Biznes-lanch",
+        "ru": "Бизнес-ланч",
+        "en": "Business Lunch"
+      }
+    },
+    {
+      "id": "kids",
+      "name": {
+        "uz": "Bolalar menyusi",
+        "ru": "Детское меню",
+        "en": "Kids Menu"
+      }
+    },
+    {
+      "id": "soups",
+      "name": {
+        "uz": "Sho‘rvalar",
+        "ru": "Супы",
+        "en": "Soups"
+      }
+    },
+    {
+      "id": "salads",
+      "name": {
+        "uz": "Salatlar",
+        "ru": "Салаты",
+        "en": "Salads"
+      }
+    },
+    {
+      "id": "hot-appetizers",
+      "name": {
+        "uz": "Issiq zakuskalar",
+        "ru": "Горячие закуски",
+        "en": "Hot Appetizers"
+      }
+    },
+    {
+      "id": "seafood",
+      "name": {
+        "uz": "Dengiz mahsulotlari",
+        "ru": "Морепродукты",
+        "en": "Seafood"
+      }
+    },
+    {
+      "id": "seafood-sets",
+      "name": {
+        "uz": "Dengiz setlari",
+        "ru": "Морские сеты",
+        "en": "Seafood Sets"
+      }
+    },
+    {
+      "id": "fish-grill-sets",
+      "name": {
+        "uz": "Baliq gril setlari",
+        "ru": "Рыбные гриль-сеты",
+        "en": "Fish Grill Sets"
+      }
+    },
+    {
+      "id": "turkish-specials",
+      "name": {
+        "uz": "Turkcha maxsus taomlar",
+        "ru": "Турецкие фирменные блюда",
+        "en": "Turkish Specialties"
+      }
+    },
+    {
+      "id": "ekmek",
+      "name": {
+        "uz": "Ekmek",
+        "ru": "Экмек",
+        "en": "Ekmek"
+      }
+    },
+    {
+      "id": "drinks",
+      "name": {
+        "uz": "Ichimliklar",
+        "ru": "Напитки",
+        "en": "Drinks"
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "turkish-breakfast-one",
+      "categoryId": "breakfast",
+      "name": {
+        "uz": "Turkcha nonushta — 1 kishi",
+        "ru": "Турецкий завтрак на одного",
+        "en": "Turkish Breakfast for One"
+      },
+      "description": {
+        "uz": "Pishloq, sariyog‘, asal, murabbo, zaytun, pomidor, bodring, 1 qaynatilgan tuxum, non va turk choyi (1 stakan).",
+        "ru": "Сыр, масло, мёд, джем, оливки, помидоры, огурец, 1 варёное яйцо, хлеб и турецкий чай (1 стакан).",
+        "en": "Cheese, butter, honey, jam, olives, tomatoes, cucumber, 1 boiled egg, bread and Turkish tea (1 glass)."
+      },
+      "priceUZS": 60000,
+      "weight": null,
+      "badge": null,
+      "image": "assets/photos/turkish-breakfast-one.jpg"
+    },
+    {
+      "id": "turkish-breakfast-two",
+      "categoryId": "breakfast",
+      "name": {
+        "uz": "Turkcha nonushta — 2 kishi",
+        "ru": "Турецкий завтрак на двоих",
+        "en": "Turkish Breakfast for Two"
+      },
+      "description": {
+        "uz": "3 xil pishloq, sariyog‘, asal, murabbo, Nutella, zaytun, pomidor, bodring, 2 qaynatilgan tuxum, sucuklu tuxum, 4 sigara börek, non va turk choyi.",
+        "ru": "3 вида сыра, масло, мёд, джем, Nutella, оливки, помидоры, огурец, 2 варёных яйца, яйца с суджуком, 4 сигара-бёрек, хлеб и турецкий чай.",
+        "en": "Three cheeses, butter, honey, jam, Nutella, olives, tomatoes, cucumber, 2 boiled eggs, sucuklu eggs, 4 sigara börek, bread and Turkish tea."
+      },
+      "priceUZS": 120000,
+      "weight": null,
+      "badge": null,
+      "image": "assets/photos/turkish-breakfast-two.jpg"
+    },
+    {
+      "id": "royal-breakfast-four",
+      "categoryId": "breakfast",
+      "name": {
+        "uz": "Qirollik turk nonushtasi — 4 kishi",
+        "ru": "Королевский турецкий завтрак на четверых",
+        "en": "Royal Turkish Breakfast for Four"
+      },
+      "description": {
+        "uz": "4 xil pishloq, sariyog‘, asal, murabbo, Nutella, zaytun, pomidor, bodring, 4 tuxum, sucuklu tuxum, 2 porsiya menemen, 8 sigara börek, non va choynakda choy.",
+        "ru": "4 вида сыра, масло, мёд, джем, Nutella, оливки, помидоры, огурец, 4 яйца, яйца с суджуком, 2 порции менемена, 8 сигара-бёрек, хлеб и чайник чая.",
+        "en": "Four cheeses, butter, honey, jam, Nutella, olives, tomatoes, cucumber, 4 eggs, sucuklu eggs, 2 portions of menemen, 8 sigara börek, bread and tea in a teapot."
+      },
+      "priceUZS": 220000,
+      "weight": null,
+      "badge": null,
+      "image": "assets/photos/royal-breakfast-four.jpg"
+    },
+    {
+      "id": "business-lunch-classic",
+      "categoryId": "business-lunch",
+      "name": {
+        "uz": "Business Lunch Classic",
+        "ru": "Бизнес-ланч Classic",
+        "en": "Business Lunch Classic"
+      },
+      "description": {
+        "uz": "Mercimek sho‘rvasi, mavsumiy salat, tovuqli shnitsel, makkajo‘xorili guruch, non va turk choyi.",
+        "ru": "Чечевичный суп, сезонный салат, куриный шницель, рис с кукурузой, хлеб и турецкий чай.",
+        "en": "Mercimek soup, seasonal salad, chicken schnitzel, rice with corn, bread and Turkish tea."
+      },
+      "priceUZS": 60000,
+      "weight": null,
+      "badge": "12:00–16:00",
+      "image": "assets/photos/business-lunch-classic.jpg"
+    },
+    {
+      "id": "business-lunch-beef",
+      "categoryId": "business-lunch",
+      "name": {
+        "uz": "Business Lunch Beef",
+        "ru": "Бизнес-ланч Beef",
+        "en": "Business Lunch Beef"
+      },
+      "description": {
+        "uz": "Frikadelkali sho‘rva, salat, sariyog‘da mol filesi, makkajo‘xorili guruch, non va turk choyi.",
+        "ru": "Суп с фрикадельками, салат, говяжья вырезка на сливочном масле, рис с кукурузой, хлеб и чай.",
+        "en": "Meatball soup, salad, beef tenderloin in butter, rice with corn, bread and tea."
+      },
+      "priceUZS": 85000,
+      "weight": null,
+      "badge": "12:00–16:00",
+      "image": "assets/photos/business-lunch-beef.jpg"
+    },
+    {
+      "id": "business-lunch-fish",
+      "categoryId": "business-lunch",
+      "name": {
+        "uz": "Business Lunch Fish",
+        "ru": "Бизнес-ланч Fish",
+        "en": "Business Lunch Fish"
+      },
+      "description": {
+        "uz": "Baliq sho‘rvasi, Choban salati, sariyog‘da forel va pyure, non va turk choyi.",
+        "ru": "Рыбный суп, салат «Чобан», форель на сливочном масле с пюре, хлеб и чай.",
+        "en": "Fish soup, Çoban salad, trout in butter with mashed potatoes, bread and tea."
+      },
+      "priceUZS": 125000,
+      "weight": null,
+      "badge": "12:00–16:00",
+      "image": "assets/photos/business-lunch-fish.jpg"
+    },
+    {
+      "id": "business-lunch-turkish",
+      "categoryId": "business-lunch",
+      "name": {
+        "uz": "Business Turkish Lunch",
+        "ru": "Турецкий бизнес-ланч",
+        "en": "Business Turkish Lunch"
+      },
+      "description": {
+        "uz": "Tovuq sotesi va guruchli palov, mavsumiy salat, non va turk choyi.",
+        "ru": "Куриное соте с рисовым пловом, сезонный салат, хлеб и чай.",
+        "en": "Chicken sauté with rice pilaf, seasonal salad, bread and Turkish tea."
+      },
+      "priceUZS": 70000,
+      "weight": null,
+      "badge": "12:00–16:00",
+      "image": "assets/photos/business-lunch-turkish.jpg"
+    },
+    {
+      "id": "little-chef",
+      "categoryId": "kids",
+      "name": {
+        "uz": "Little Chef — Kichik oshpaz",
+        "ru": "Little Chef — Маленький шеф",
+        "en": "Little Chef"
+      },
+      "description": {
+        "uz": "Tovuq kotletlari, kartoshka pyuresi, non va olma sharbati.",
+        "ru": "Куриные котлеты с пюре, хлеб и яблочный сок.",
+        "en": "Chicken cutlets with mashed potatoes, bread and apple juice."
+      },
+      "priceUZS": 50000,
+      "weight": "220 g",
+      "badge": null,
+      "image": "assets/photos/little-chef.jpg"
+    },
+    {
+      "id": "little-sailor",
+      "categoryId": "kids",
+      "name": {
+        "uz": "Little Sailor — Kichik dengizchi",
+        "ru": "Little Sailor — Маленький моряк",
+        "en": "Little Sailor"
+      },
+      "description": {
+        "uz": "Som filesi, makkajo‘xorili guruch, non va sabzi sharbati.",
+        "ru": "Филе сома с рисом и кукурузой, хлеб и морковный сок.",
+        "en": "Catfish fillet with corn rice, bread and carrot juice."
+      },
+      "priceUZS": 55000,
+      "weight": "220 g",
+      "badge": null,
+      "image": "assets/photos/little-sailor.jpg"
+    },
+    {
+      "id": "fruitful-smile",
+      "categoryId": "kids",
+      "name": {
+        "uz": "Fruitful Smile — Mevali tabassum",
+        "ru": "Фруктовая улыбка",
+        "en": "Fruitful Smile"
+      },
+      "description": {
+        "uz": "Mevali salat.",
+        "ru": "Фруктовый салат.",
+        "en": "Fruit salad."
+      },
+      "priceUZS": 30000,
+      "weight": "120 g",
+      "badge": null,
+      "image": "assets/photos/fruitful-smile.jpg"
+    },
+    {
+      "id": "chicken-soup-kids",
+      "categoryId": "kids",
+      "name": {
+        "uz": "Bolalar uchun tovuq sho‘rvasi",
+        "ru": "Куриный суп",
+        "en": "Chicken Soup"
+      },
+      "description": {
+        "uz": "Bolalar uchun tovuq sho‘rvasi.",
+        "ru": "Куриный суп для детей.",
+        "en": "Chicken soup for kids."
+      },
+      "priceUZS": 30000,
+      "weight": "150 g",
+      "badge": null,
+      "image": "assets/photos/chicken-soup-kids.jpg"
+    },
+    {
+      "id": "little-pasta-smile",
+      "categoryId": "kids",
+      "name": {
+        "uz": "Little Pasta Smile — Bolalar pastasi",
+        "ru": "Детская паста",
+        "en": "Little Pasta Smile"
+      },
+      "description": {
+        "uz": "Pomidor sousi va pishloqli spagetti, yangi sabzavotlar, kartoshka-smayliklar va multifrukt sharbati.",
+        "ru": "Спагетти с томатным соусом и сыром, свежие овощи, картофельные смайлики и мультифруктовый сок.",
+        "en": "Spaghetti with tomato sauce and cheese, fresh vegetables, potato smiles and multifruit juice."
+      },
+      "priceUZS": 60000,
+      "weight": null,
+      "badge": null,
+      "image": "assets/photos/little-pasta-smile.jpg"
+    },
+    {
+      "id": "mini-burger-duo",
+      "categoryId": "kids",
+      "name": {
+        "uz": "Mini Burger Duo — Fri bilan mini-burger",
+        "ru": "Мини-бургер с картофелем фри",
+        "en": "Mini Burger Duo"
+      },
+      "description": {
+        "uz": "Mini-burger, fri kartoshkasi va Coca-Cola.",
+        "ru": "Мини-бургер с картофелем фри и Coca-Cola.",
+        "en": "Mini burger with French fries and Coca-Cola."
+      },
+      "priceUZS": 55000,
+      "weight": null,
+      "badge": null,
+      "image": "assets/photos/mini-burger-duo.jpg"
+    },
+    {
+      "id": "bouillabaisse",
+      "categoryId": "soups",
+      "name": {
+        "uz": "Bouillabaisse",
+        "ru": "Буйабес",
+        "en": "Bouillabaisse"
+      },
+      "description": {
+        "uz": "Baliq va dengiz mahsulotlaridan sho‘rva.",
+        "ru": "Суп из рыбы и морепродуктов.",
+        "en": "Fish and seafood soup."
+      },
+      "priceUZS": 110000,
+      "weight": null,
+      "badge": null,
+      "image": "assets/photos/bouillabaisse.jpg"
+    },
+    {
+      "id": "mercimek-corbasi",
+      "categoryId": "soups",
+      "name": {
+        "uz": "Mercimek Çorbası",
+        "ru": "Турецкий чечевичный суп",
+        "en": "Turkish Lentil Soup"
+      },
+      "description": {
+        "uz": "Turkcha yasmiq sho‘rvasi.",
+        "ru": "Турецкий чечевичный суп.",
+        "en": "Traditional Turkish lentil soup."
+      },
+      "priceUZS": 60000,
+      "weight": null,
+      "badge": null,
+      "image": "assets/photos/mercimek-corbasi.jpg"
+    },
+    {
+      "id": "beyran-corbasi",
+      "categoryId": "soups",
+      "name": {
+        "uz": "Beyran Çorbası",
+        "ru": "Бейран — баранина с рисом",
+        "en": "Beyran Soup"
+      },
+      "description": {
+        "uz": "Qo‘y go‘shti, guruch va sarimsoqli turk sho‘rvasi.",
+        "ru": "Турецкий суп из баранины с рисом и чесноком.",
+        "en": "Turkish lamb soup with rice and garlic."
+      },
+      "priceUZS": 90000,
+      "weight": null,
+      "badge": null,
+      "image": "assets/photos/beyran-corbasi.jpg"
+    },
+    {
+      "id": "meatball-noodle-soup",
+      "categoryId": "soups",
+      "name": {
+        "uz": "Frikadelka va lapsha sho‘rvasi",
+        "ru": "Наваристый суп с фрикадельками и лапшой",
+        "en": "Meatball & Noodle Soup"
+      },
+      "description": {
+        "uz": "Frikadelka va lapshali sho‘rva.",
+        "ru": "Суп с фрикадельками и лапшой.",
+        "en": "Soup with meatballs and noodles."
+      },
+      "priceUZS": 50000,
+      "weight": null,
+      "badge": null,
+      "image": "assets/photos/meatball-noodle-soup.jpg"
+    },
+    {
+      "id": "tavuk-corbasi",
+      "categoryId": "soups",
+      "name": {
+        "uz": "Tavuk Çorbası",
+        "ru": "Традиционный турецкий куриный суп",
+        "en": "Turkish Chicken Soup"
+      },
+      "description": {
+        "uz": "An’anaviy turkcha tovuq sho‘rvasi.",
+        "ru": "Традиционный турецкий куриный суп.",
+        "en": "Traditional Turkish chicken soup."
+      },
+      "priceUZS": 55000,
+      "weight": null,
+      "badge": null,
+      "image": "assets/photos/tavuk-corbasi.jpg"
+    },
+    {
+      "id": "kabak-krem-corbasi",
+      "categoryId": "soups",
+      "name": {
+        "uz": "Kabak Krem Çorbası",
+        "ru": "Тыквенный крем-суп",
+        "en": "Pumpkin Cream Soup"
+      },
+      "description": {
+        "uz": "Qovoqli krem-sho‘rva.",
+        "ru": "Тыквенный крем-суп.",
+        "en": "Creamy pumpkin soup."
+      },
+      "priceUZS": 60000,
+      "weight": null,
+      "badge": null,
+      "image": "assets/photos/kabak-krem-corbasi.jpg"
+    },
+    {
+      "id": "mantarlı-krem-corbasi",
+      "categoryId": "soups",
+      "name": {
+        "uz": "Mantarlı Krem Çorbası",
+        "ru": "Грибной крем-суп",
+        "en": "Mushroom Cream Soup"
+      },
+      "description": {
+        "uz": "Qo‘ziqorinli krem-sho‘rva.",
+        "ru": "Грибной крем-суп.",
+        "en": "Creamy mushroom soup."
+      },
+      "priceUZS": 70000,
+      "weight": null,
+      "badge": null,
+      "image": "assets/photos/mantarlı-krem-corbasi.jpg"
+    },
+    {
+      "id": "caesar-chicken",
+      "categoryId": "salads",
+      "name": {
+        "uz": "Caesar salati — tovuq bilan",
+        "ru": "Салат «Цезарь» с курицей",
+        "en": "Caesar Salad (Chicken)"
+      },
+      "description": {
+        "uz": "Grilda tovuq, romen salati, Parmesan, kruton va Caesar sousi.",
+        "ru": "Курица, ромэн, пармезан, крутоны и соус «Цезарь».",
+        "en": "Grilled chicken, romaine, Parmesan, croutons and Caesar sauce."
+      },
+      "priceUZS": 110000,
+      "weight": null,
+      "badge": null,
+      "image": "assets/photos/caesar-chicken.jpg"
+    },
+    {
+      "id": "caesar-shrimp",
+      "categoryId": "salads",
+      "name": {
+        "uz": "Caesar salati — krevetka bilan",
+        "ru": "Салат «Цезарь» с креветками",
+        "en": "Caesar Salad (Shrimp)"
+      },
+      "description": {
+        "uz": "Krevetka, romen salati, Parmesan, kruton va Caesar sousi.",
+        "ru": "Креветки, ромэн, пармезан, крутоны и соус «Цезарь».",
+        "en": "Shrimp, romaine, Parmesan, croutons and Caesar sauce."
+      },
+      "priceUZS": 130000,
+      "weight": null,
+      "badge": null,
+      "image": "assets/photos/caesar-shrimp.jpg"
+    },
+    {
+      "id": "seafood-salad",
+      "categoryId": "salads",
+      "name": {
+        "uz": "Dengiz mahsulotlari salati",
+        "ru": "Салат с морепродуктами",
+        "en": "Seafood Salad"
+      },
+      "description": {
+        "uz": "Krevetka, kalmar, midiya, ko‘katlar, zaytun moyi, limon sharbati va ko‘katlar.",
+        "ru": "Креветки, кальмары, мидии, зелень, оливковое масло, лимонный сок и травы.",
+        "en": "Shrimp, calamari, mussels, greens, olive oil, lemon juice and herbs."
+      },
+      "priceUZS": 150000,
+      "weight": null,
+      "badge": null,
+      "image": "assets/photos/seafood-salad.jpg"
+    },
+    {
+      "id": "shrimp-avocado-salad",
+      "categoryId": "salads",
+      "name": {
+        "uz": "Krevetka va avokado salati",
+        "ru": "Салат с креветками и авокадо",
+        "en": "Shrimp & Avocado Salad"
+      },
+      "description": {
+        "uz": "Krevetka, avokado, ko‘katlar, cherry pomidor, zaytun moyi va limon sharbati.",
+        "ru": "Креветки, авокадо, зелень, черри, оливковое масло и лимонный сок.",
+        "en": "Shrimp, avocado, greens, cherry tomatoes, olive oil and lemon juice."
+      },
+      "priceUZS": 130000,
+      "weight": null,
+      "badge": null,
+      "image": "assets/photos/shrimp-avocado-salad.jpg"
+    },
+    {
+      "id": "seasonal-salad",
+      "categoryId": "salads",
+      "name": {
+        "uz": "Mavsumiy salat",
+        "ru": "Сезонный салат",
+        "en": "Seasonal Salad"
+      },
+      "description": {
+        "uz": "Mavsumiy sabzavotlar, ko‘katlar va zaytun moyi.",
+        "ru": "Сезонные овощи, зелень и оливковое масло.",
+        "en": "Seasonal vegetables, greens and olive oil."
+      },
+      "priceUZS": 70000,
+      "weight": null,
+      "badge": null,
+      "image": "assets/photos/seasonal-salad.jpg"
+    },
+    {
+      "id": "greek-salad",
+      "categoryId": "salads",
+      "name": {
+        "uz": "Grek salati",
+        "ru": "Греческий салат",
+        "en": "Greek Salad"
+      },
+      "description": {
+        "uz": "Pomidor, bodring, qizil piyoz, zaytun, feta va zaytun moyi.",
+        "ru": "Помидоры, огурец, красный лук, оливки, фета и оливковое масло.",
+        "en": "Tomatoes, cucumber, red onion, olives, feta and olive oil."
+      },
+      "priceUZS": 85000,
+      "weight": null,
+      "badge": null,
+      "image": "assets/photos/greek-salad.jpg"
+    },
+    {
+      "id": "coban-salad",
+      "categoryId": "salads",
+      "name": {
+        "uz": "Choban salati",
+        "ru": "Салат «Чобан»",
+        "en": "Çoban Salad"
+      },
+      "description": {
+        "uz": "Pomidor, bodring, qizil piyoz, petrushka, limon, zaytun moyi va anor sousi.",
+        "ru": "Помидоры, огурцы, красный лук, петрушка, лимон, масло и гранатовый соус.",
+        "en": "Tomatoes, cucumbers, red onion, parsley, lemon, olive oil and pomegranate sauce."
+      },
+      "priceUZS": 60000,
+      "weight": null,
+      "badge": null,
+      "image": "assets/photos/coban-salad.jpg"
+    },
+    {
+      "id": "fried-eggplant-yogurt",
+      "categoryId": "salads",
+      "name": {
+        "uz": "Qatiq va shirin sousli baqlajon",
+        "ru": "Баклажаны с йогуртом и сладким соусом",
+        "en": "Fried Eggplant with Yogurt & Sweet Sauce"
+      },
+      "description": {
+        "uz": "Qovurilgan baqlajon, yogurt va shirin sous.",
+        "ru": "Жареные баклажаны, йогурт и сладкий соус.",
+        "en": "Fried eggplant, yogurt and sweet sauce."
+      },
+      "priceUZS": 95000,
+      "weight": null,
+      "badge": null,
+      "image": "assets/photos/fried-eggplant-yogurt.jpg"
+    },
+    {
+      "id": "burrata-salad",
+      "categoryId": "salads",
+      "name": {
+        "uz": "Burrata salati",
+        "ru": "Салат с бурратой",
+        "en": "Burrata Salad"
+      },
+      "description": {
+        "uz": "Burrata, yangi pomidor, ko‘katlar va zaytun moyi.",
+        "ru": "Буррата, свежие помидоры, зелень и оливковое масло.",
+        "en": "Burrata, fresh tomatoes, greens and olive oil."
+      },
+      "priceUZS": 120000,
+      "weight": null,
+      "badge": null,
+      "image": "assets/photos/burrata-salad.jpg"
+    },
+    {
+      "id": "orange-salad",
+      "categoryId": "salads",
+      "name": {
+        "uz": "Apelsinli salat",
+        "ru": "Салат с апельсином",
+        "en": "Orange Salad"
+      },
+      "description": {
+        "uz": "Apelsin, ko‘katlar, qizil piyoz, cherry pomidor va sitrus sousi.",
+        "ru": "Апельсин, зелень, красный лук, черри и цитрусовый соус.",
+        "en": "Orange, greens, red onion, cherry tomatoes and citrus sauce."
+      },
+      "priceUZS": 80000,
+      "weight": null,
+      "badge": null,
+      "image": "assets/photos/orange-salad.jpg"
+    },
+    {
+      "id": "grape-leaf-dolma",
+      "categoryId": "hot-appetizers",
+      "name": {
+        "uz": "Uzum bargi dolmasi",
+        "ru": "Долма из виноградных листьев",
+        "en": "Grape Leaf Dolma"
+      },
+      "description": {
+        "uz": "Uzum bargi, mol go‘shtli guruch, ko‘kat va ziravorlar, yogurt bilan. 10 dona.",
+        "ru": "Виноградные листья, рис с говядиной, зелень и специи, с йогуртом. 10 шт.",
+        "en": "Grape leaves, rice with beef, herbs and spices, served with yogurt. 10 pieces."
+      },
+      "priceUZS": 85000,
+      "weight": "10 dona / 10 шт. / 10 pcs",
+      "badge": null,
+      "image": "assets/photos/grape-leaf-dolma.jpg"
+    },
+    {
+      "id": "crispy-cheese",
+      "categoryId": "hot-appetizers",
+      "name": {
+        "uz": "Xrustyashiy pishloq",
+        "ru": "Хрустящий сыр",
+        "en": "Crispy Cheese"
+      },
+      "description": {
+        "uz": "Qarsildoq qobiq, erigan pishloq markazi, sarimsoqli sous bilan.",
+        "ru": "Хрустящая корочка, расплавленный сыр внутри, чесночный соус.",
+        "en": "Crispy outside, melted cheese center, garlic sauce."
+      },
+      "priceUZS": 70000,
+      "weight": null,
+      "badge": null,
+      "image": "assets/photos/crispy-cheese.jpg"
+    },
+    {
+      "id": "crispy-chicken",
+      "categoryId": "hot-appetizers",
+      "name": {
+        "uz": "Qarsildoq tovuq stripslari — 5 dona",
+        "ru": "Куриные стрипсы — 5 шт.",
+        "en": "Crispy Chicken — 5 pcs"
+      },
+      "description": {
+        "uz": "Qarsildoq panirdagi tovuq, sweet chili sousi bilan.",
+        "ru": "Курица в хрустящей панировке с соусом sweet chili.",
+        "en": "Crispy breaded chicken with sweet chili sauce."
+      },
+      "priceUZS": 65000,
+      "weight": "5 dona / 5 шт. / 5 pcs",
+      "badge": null,
+      "image": "assets/photos/crispy-chicken.jpg"
+    },
+    {
+      "id": "mushrooms-cheese",
+      "categoryId": "hot-appetizers",
+      "name": {
+        "uz": "Pishloqli qo‘ziqorin — 8 dona",
+        "ru": "Грибы с сыром — 8 шт.",
+        "en": "Mushrooms with Cheese — 8 pcs"
+      },
+      "description": {
+        "uz": "Eritilgan pishloq bilan to‘ldirilgan qo‘ziqorinlar, sous bilan.",
+        "ru": "Грибы с расплавленным сыром, с соусом.",
+        "en": "Mushrooms filled with melted cheese, with dipping sauce."
+      },
+      "priceUZS": 80000,
+      "weight": "8 dona / 8 шт. / 8 pcs",
+      "badge": null,
+      "image": "assets/photos/mushrooms-cheese.jpg"
+    },
+    {
+      "id": "bbq-wings-fries",
+      "categoryId": "hot-appetizers",
+      "name": {
+        "uz": "BBQ qanotlar va fri — 7 dona",
+        "ru": "Крылышки BBQ с картофелем фри — 7 шт.",
+        "en": "BBQ Wings & Fries — 7 pcs"
+      },
+      "description": {
+        "uz": "BBQ tovuq qanotlari, fri kartoshkasi bilan.",
+        "ru": "Куриные крылышки BBQ с картофелем фри.",
+        "en": "BBQ chicken wings with French fries."
+      },
+      "priceUZS": 80000,
+      "weight": "7 dona / 7 шт. / 7 pcs",
+      "badge": null,
+      "image": "assets/photos/bbq-wings-fries.jpg"
+    },
+    {
+      "id": "julienne-beef",
+      "categoryId": "hot-appetizers",
+      "name": {
+        "uz": "Sariyog‘da mol filesi julienne",
+        "ru": "Жюльен из говяжьей вырезки на сливочном масле",
+        "en": "Julienne Beef Tenderloin in Butter"
+      },
+      "description": {
+        "uz": "Sariyog‘da qovurilgan mol filesi, salat bargi, bodring va pomidor bilan.",
+        "ru": "Говяжья вырезка на сливочном масле, салат, огурец и помидоры.",
+        "en": "Beef tenderloin in butter, lettuce, cucumber and tomatoes."
+      },
+      "priceUZS": 170000,
+      "weight": null,
+      "badge": null,
+      "image": "assets/photos/julienne-beef.jpg"
+    },
+    {
+      "id": "crispy-shrimp-six",
+      "categoryId": "seafood",
+      "name": {
+        "uz": "Qarsildoq krevetkalar — 6 dona",
+        "ru": "Креветки темпура — 6 шт.",
+        "en": "Crispy Shrimps — 6 pcs"
+      },
+      "description": {
+        "uz": "Shirin sous bilan.",
+        "ru": "Со сладким соусом.",
+        "en": "With sweet sauce."
+      },
+      "priceUZS": 120000,
+      "weight": null,
+      "badge": null,
+      "image": "assets/photos/crispy-shrimp-six.jpg"
+    },
+    {
+      "id": "octopus-tomato",
+      "categoryId": "seafood",
+      "name": {
+        "uz": "Pomidor sousidagi sakkizoyoq",
+        "ru": "Осьминог в томатном соусе",
+        "en": "Octopus in Tomato Sauce"
+      },
+      "description": {
+        "uz": "Sariyog‘da qovurilgan sakkizoyoq, pomidor sousi bilan.",
+        "ru": "Осьминог, обжаренный на сливочном масле, с томатным соусом.",
+        "en": "Octopus sautéed in butter with tomato sauce."
+      },
+      "priceUZS": 150000,
+      "weight": "250 g",
+      "badge": null,
+      "image": "assets/photos/octopus-tomato.jpg"
+    },
+    {
+      "id": "crispy-calamari-twelve",
+      "categoryId": "seafood",
+      "name": {
+        "uz": "Qarsildoq kalmar — 12 dona",
+        "ru": "Кальмары в панировке — 12 шт.",
+        "en": "Crispy Calamari — 12 pcs"
+      },
+      "description": {
+        "uz": "Qarsildoq kalmar, sous bilan.",
+        "ru": "Кальмары в хрустящей панировке с соусом.",
+        "en": "Crispy calamari with sauce."
+      },
+      "priceUZS": 140000,
+      "weight": null,
+      "badge": null,
+      "image": "assets/photos/crispy-calamari-twelve.jpg"
+    },
+    {
+      "id": "dynamite-shrimp",
+      "categoryId": "seafood",
+      "name": {
+        "uz": "Dynamite krevetkalar",
+        "ru": "Креветки «Динамит»",
+        "en": "Dynamite Shrimp"
+      },
+      "description": {
+        "uz": "Qarsildoq krevetkalar qaymoqli achchiq Dynamite sousida.",
+        "ru": "Хрустящие креветки в сливочном остром соусе Dynamite.",
+        "en": "Crispy shrimp in creamy spicy Dynamite sauce."
+      },
+      "priceUZS": 140000,
+      "weight": "300 g",
+      "badge": null,
+      "image": "assets/photos/dynamite-shrimp.jpg"
+    },
+    {
+      "id": "golden-mussels",
+      "categoryId": "seafood",
+      "name": {
+        "uz": "Oltinrang midiyalar",
+        "ru": "Золотистые мидии",
+        "en": "Golden Mussels"
+      },
+      "description": {
+        "uz": "Yengil qovurilgan midiya go‘shti, sarimsoqli sariyog‘ sousida.",
+        "ru": "Обжаренное мясо мидий с чесночно-сливочным соусом.",
+        "en": "Lightly fried mussel meat with garlic butter sauce."
+      },
+      "priceUZS": 200000,
+      "weight": "500 g",
+      "badge": null,
+      "image": "assets/photos/golden-mussels.jpg"
+    },
+    {
+      "id": "classic-garlic-shrimp",
+      "categoryId": "seafood",
+      "name": {
+        "uz": "Sarimsoqli krevetkalar",
+        "ru": "Креветки с чесноком",
+        "en": "Classic Garlic Shrimp"
+      },
+      "description": {
+        "uz": "Sarimsoq va sariyog‘da qovurilgan krevetkalar.",
+        "ru": "Креветки с чесноком и сливочным маслом.",
+        "en": "Shrimp with garlic and butter."
+      },
+      "priceUZS": 130000,
+      "weight": "200 g",
+      "badge": null,
+      "image": "assets/photos/classic-garlic-shrimp.jpg"
+    },
+    {
+      "id": "spicy-shrimp-casserole",
+      "categoryId": "seafood",
+      "name": {
+        "uz": "Achchiq pomidor sousidagi krevetkalar",
+        "ru": "Острые креветки в томатном соусе",
+        "en": "Spicy Shrimp Casserole"
+      },
+      "description": {
+        "uz": "Sarimsoq va chili bilan pomidor sousida pishirilgan krevetkalar.",
+        "ru": "Креветки в томатно-чесночном соусе с чили.",
+        "en": "Shrimp in tomato-garlic sauce with chili."
+      },
+      "priceUZS": 160000,
+      "weight": "300 g",
+      "badge": null,
+      "image": "assets/photos/spicy-shrimp-casserole.jpg"
+    },
+    {
+      "id": "turkish-stuffed-mussels",
+      "categoryId": "seafood",
+      "name": {
+        "uz": "Turkcha to‘ldirilgan midiyalar",
+        "ru": "Мидии, фаршированные по-турецки",
+        "en": "Turkish Stuffed Mussels"
+      },
+      "description": {
+        "uz": "Ziravorli guruch va ko‘katlar bilan to‘ldirilgan midiyalar, limon bilan.",
+        "ru": "Мидии с ароматным рисом, зеленью и специями, со свежим лимоном.",
+        "en": "Mussels stuffed with seasoned rice, herbs and spices, served with lemon."
+      },
+      "priceUZS": null,
+      "weight": null,
+      "badge": null,
+      "image": "assets/photos/turkish-stuffed-mussels.jpg",
+      "priceOptions": [
+        {
+          "label": "1 dona / 1 шт. / 1 piece",
+          "priceUZS": 8000
+        },
+        {
+          "label": "500 g",
+          "priceUZS": 200000
+        },
+        {
+          "label": "1 000 g",
+          "priceUZS": 350000
+        },
+        {
+          "label": "2 000 g",
+          "priceUZS": 500000
+        }
+      ]
+    },
+    {
+      "id": "seafood-feast",
+      "categoryId": "seafood-sets",
+      "name": {
+        "uz": "Seafood Feast",
+        "ru": "Сет «Морское пиршество»",
+        "en": "Seafood Feast"
+      },
+      "description": {
+        "uz": "4–5 kishi. Qarsildoq krevetka 12; kalmar 20; achchiq qaymoqli sousdagi sakkizoyoq 250 g; qarsildoq som filesi 12; sarimsoqli krevetka 12; kokos sutidagi midiya 500 g; langustin 8; 4 maxsus sous.",
+        "ru": "4–5 персон. Креветки 12; кальмары 20; осьминог 250 г; филе сома 12; креветки в чесночном масле 12; мидии в кокосовом молоке 500 г; лангустины 8; 4 фирменных соуса.",
+        "en": "Serves 4–5. Crispy shrimp 12; calamari 20; octopus 250 g; catfish fillet 12; garlic butter shrimp 12; mussels in coconut milk 500 g; langoustines 8; 4 signature sauces."
+      },
+      "priceUZS": 1200000,
+      "weight": "4–5 kishi / 4–5 персон / serves 4–5",
+      "badge": null,
+      "image": "assets/photos/seafood-feast.jpg"
+    },
+    {
+      "id": "ocean-royale",
+      "categoryId": "seafood-sets",
+      "name": {
+        "uz": "Ocean Royale",
+        "ru": "Сет «Океан Рояль»",
+        "en": "Ocean Royale"
+      },
+      "description": {
+        "uz": "7–8 kishi. Krevetka 20; kalmar 35; sakkizoyoq 750 g; som filesi 20; sarimsoqli krevetka 24; midiya 1 000 g; langustin 12; sariyog‘dagi losos 800 g; ko‘mirda forel 1 000 g; 4 sous.",
+        "ru": "7–8 персон. Креветки 20; кальмары 35; осьминог 750 г; филе сома 20; креветки 24; мидии 1 000 г; лангустины 12; лосось 800 г; форель 1 000 г; 4 соуса.",
+        "en": "Serves 7–8. Shrimp 20; calamari 35; octopus 750 g; catfish 20; garlic shrimp 24; mussels 1,000 g; langoustines 12; salmon 800 g; trout 1,000 g; 4 sauces."
+      },
+      "priceUZS": 2200000,
+      "weight": "7–8 kishi / 7–8 персон / serves 7–8",
+      "badge": null,
+      "image": "assets/photos/ocean-royale.jpg"
+    },
+    {
+      "id": "ocean-imperial",
+      "categoryId": "seafood-sets",
+      "name": {
+        "uz": "Ocean Imperial",
+        "ru": "Сет «Океан Империал»",
+        "en": "Ocean Imperial"
+      },
+      "description": {
+        "uz": "10–12 kishi. Krevetka 35; kalmar 40; sakkizoyoq 1 250 g; som filesi 30; sarimsoqli krevetka 35; midiya 2 000 g; boshli yirik krevetka 20; butun omar kamida 1,8 kg; 4 sous.",
+        "ru": "10–12 персон. Креветки 35; кальмары 40; осьминог 1 250 г; филе сома 30; креветки 35; мидии 2 000 г; крупные креветки с головой 20; лобстер минимум 1,8 кг; 4 соуса.",
+        "en": "Serves 10–12. Shrimp 35; calamari 40; octopus 1,250 g; catfish 30; garlic shrimp 35; mussels 2,000 g; large head-on shrimp 20; whole lobster minimum 1.8 kg; 4 sauces."
+      },
+      "priceUZS": 4400000,
+      "weight": "10–12 kishi / 10–12 персон / serves 10–12",
+      "badge": null,
+      "image": "assets/photos/ocean-imperial.jpg"
+    },
+    {
+      "id": "fire-grill-fish-set",
+      "categoryId": "fish-grill-sets",
+      "name": {
+        "uz": "Fire Grill Fish Set",
+        "ru": "Рыбный сет Fire Grill",
+        "en": "Fire Grill Fish Set"
+      },
+      "description": {
+        "uz": "4–6 kishi. Ochiq olovda: sibas 1, dorada 1, forel 1, skumbriya 1, sazan 500 g, losos 500 g; shepherd’s salad, pomidor sharbati va limon.",
+        "ru": "4–6 персон. На открытом огне: сибас 1, дорадо 1, форель 1, скумбрия 1, сазан 500 г, лосось 500 г; салат, томатный сок и лимон.",
+        "en": "Serves 4–6. Open-flame sea bass 1, sea bream 1, trout 1, mackerel 1, carp 500 g, salmon 500 g; shepherd’s salad, tomato juice and lemon."
+      },
+      "priceUZS": 1000000,
+      "weight": "4–6 kishi / 4–6 персон / serves 4–6",
+      "badge": null,
+      "image": "assets/photos/fire-grill-fish-set.jpg"
+    },
+    {
+      "id": "royal-fish-grill-set",
+      "categoryId": "fish-grill-sets",
+      "name": {
+        "uz": "Royal Fish Grill Set",
+        "ru": "Рыбный сет Royal Grill",
+        "en": "Royal Fish Grill Set"
+      },
+      "description": {
+        "uz": "10–14 kishi. Ochiq olovda: sibas 2, dorada 2, forel 2, skumbriya 2, turbot 1, sazan 1 000 g, losos 1 000 g, osyotr 1 000 g, sole 1 000 g; salat, pomidor sharbati, limon.",
+        "ru": "10–14 персон. На открытом огне: сибас 2, дорадо 2, форель 2, скумбрия 2, тюрбо 1, сазан 1 000 г, лосось 1 000 г, осётр 1 000 г, морской язык 1 000 г; салат, томатный сок и лимон.",
+        "en": "Serves 10–14. Open-flame sea bass 2, sea bream 2, trout 2, mackerel 2, turbot 1, carp 1,000 g, salmon 1,000 g, sturgeon 1,000 g, sole 1,000 g; salad, tomato juice and lemon."
+      },
+      "priceUZS": 3200000,
+      "weight": "10–14 kishi / 10–14 персон / serves 10–14",
+      "badge": null,
+      "image": "assets/photos/royal-fish-grill-set.jpg"
+    },
+    {
+      "id": "testi-kebab-one",
+      "categoryId": "turkish-specials",
+      "name": {
+        "uz": "Testi Kebab — 1 kishi",
+        "ru": "Тести-кебаб на одного",
+        "en": "Testi Kebab for One"
+      },
+      "description": {
+        "uz": "Turkcha sopol idishda tayyorlangan kebab.",
+        "ru": "Кебаб в турецком глиняном горшочке.",
+        "en": "Turkish kebab prepared in a traditional clay pot."
+      },
+      "priceUZS": 250000,
+      "weight": "400 g",
+      "badge": null,
+      "image": "assets/photos/testi-kebab-one.jpg"
+    },
+    {
+      "id": "testi-kebab-two",
+      "categoryId": "turkish-specials",
+      "name": {
+        "uz": "Testi Kebab — 2 kishi",
+        "ru": "Тести-кебаб на двоих",
+        "en": "Testi Kebab for Two"
+      },
+      "description": {
+        "uz": "Ikki kishilik turkcha sopol idishdagi kebab.",
+        "ru": "Кебаб в глиняном горшочке на двоих.",
+        "en": "Turkish clay-pot kebab for two."
+      },
+      "priceUZS": 400000,
+      "weight": "800 g",
+      "badge": null,
+      "image": "assets/photos/testi-kebab-two.jpg"
+    },
+    {
+      "id": "balik-ekmek",
+      "categoryId": "ekmek",
+      "name": {
+        "uz": "Balık Ekmek",
+        "ru": "Балык-экмек",
+        "en": "Balık Ekmek"
+      },
+      "description": {
+        "uz": "Turkcha uslubdagi baliqli sendvich.",
+        "ru": "Рыбный сэндвич в турецком стиле.",
+        "en": "Turkish-style fish sandwich."
+      },
+      "priceUZS": 80000,
+      "weight": null,
+      "badge": "SKUMBRIA SIGNATURE",
+      "image": "assets/photos/balik-ekmek.jpg"
+    },
+    {
+      "id": "turkish-tea-glass",
+      "categoryId": "drinks",
+      "name": {
+        "uz": "Turk choyi — stakan",
+        "ru": "Турецкий чай — стакан",
+        "en": "Turkish Tea by the Glass"
+      },
+      "description": {
+        "uz": "Turk choyi, 1 stakan.",
+        "ru": "Турецкий чай, 1 стакан.",
+        "en": "Turkish tea, one glass."
+      },
+      "priceUZS": 8000,
+      "weight": null,
+      "badge": null,
+      "image": "assets/photos/turkish-tea-glass.jpg"
+    },
+    {
+      "id": "turkish-tea-pot",
+      "categoryId": "drinks",
+      "name": {
+        "uz": "Turk choyi — choynak",
+        "ru": "Турецкий чай — чайник",
+        "en": "Turkish Tea in a Teapot"
+      },
+      "description": {
+        "uz": "Choynakda turk choyi.",
+        "ru": "Турецкий чай в чайнике.",
+        "en": "Turkish tea served in a teapot."
+      },
+      "priceUZS": 50000,
+      "weight": null,
+      "badge": null,
+      "image": "assets/photos/turkish-tea-pot.jpg"
+    },
+    {
+      "id": "vitamin-fresh",
+      "categoryId": "drinks",
+      "name": {
+        "uz": "Vitamin Fresh",
+        "ru": "Витаминный фреш",
+        "en": "Vitamin Fresh"
+      },
+      "description": {
+        "uz": "Vitaminli yangi siqilgan sharbat.",
+        "ru": "Витаминный свежевыжатый сок.",
+        "en": "Vitamin fresh juice."
+      },
+      "priceUZS": 45000,
+      "weight": null,
+      "badge": null,
+      "image": "assets/photos/vitamin-fresh.jpg"
+    }
+  ],
+  "meta": {
+    "version": "1.0.0",
+    "updated": "2026-10-14",
+    "mode": "view-only",
+    "note": "Confirmed menu data only. Add real restaurant photos to assets/photos using the filename in each item's image field."
+  }
+}
